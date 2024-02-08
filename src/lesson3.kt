@@ -1,15 +1,15 @@
-fun main(){
+fun main() {
     //конкатенация строк
 
     val greetings = "Здраствуй"
-   // val space = ' '
+    // val space = ' '
     val userName = "Пират Попрыгун"
 
- //   println(greetings+ "," +userName+ '!'+ space+ "Вот ты" +space+ "был ли счастлив вчера?")
+    //   println(greetings+ "," +userName+ '!'+ space+ "Вот ты" +space+ "был ли счастлив вчера?")
 
     //интерполяция строк
 
- //   println("$greetings, $userName! Вот ты  был ли счастлив вчера?")
+    //   println("$greetings, $userName! Вот ты  был ли счастлив вчера?")
 //    println("Ладно другой вопрос, ответь ${40 + 2}")
 
 
