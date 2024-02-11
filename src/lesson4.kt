@@ -1,4 +1,4 @@
-fun main() {
+fun main(){
     //операторы сравнения
     //логические операторы
 
@@ -15,7 +15,7 @@ fun main() {
 
     val userAge = 5
     //var comparableResult = (userAge >= AGE_OF_MAJORITY) && !(userAge >= RETIREMENT_AGE)
-    var comparableResult = userAge !in AGE_OF_MAJORITY..RETIREMENT_AGE
+    var comparableResult = userAge !in AGE_OF_MAJORITY .. RETIREMENT_AGE
     println("Резутальт проверки возраста: $comparableResult")
 
 
@@ -27,5 +27,5 @@ fun main() {
 }
 
 
-const val AGE_OF_MAJORITY = 18
+//const val AGE_OF_MAJORITY = 18
 const val RETIREMENT_AGE = 65
