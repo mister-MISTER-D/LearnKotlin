@@ -48,11 +48,11 @@ fun main() {
 
     //операторы сравнения
 
-    println(a > b)
-    println(a < b)
-    println(a <= b)
-    println(a >= b)
-    println(a == b)
-    println(a != b)
+  //  println(a > b)
+  //  println(a < b)
+   // println(a <= b)
+   // println(a >= b)
+  // println(a == b)
+   //println(a != b)
 
 }
