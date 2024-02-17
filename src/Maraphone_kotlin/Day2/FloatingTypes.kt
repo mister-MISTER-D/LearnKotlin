@@ -1,4 +1,4 @@
-package Maraphone_kotlin
+package Maraphone_kotlin.Day2
 
 fun main(){
 
