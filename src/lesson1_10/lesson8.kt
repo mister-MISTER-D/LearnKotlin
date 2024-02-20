@@ -1,3 +1,5 @@
+package lesson1_10
+
 fun main(){
 
     val ingredient1 = "яйцо"

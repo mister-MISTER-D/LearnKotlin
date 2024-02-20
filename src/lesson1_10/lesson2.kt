@@ -1,3 +1,5 @@
+package lesson1_10
+
 fun main() {
     val a = 5
     val b = 7
