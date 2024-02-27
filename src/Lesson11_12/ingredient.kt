@@ -1,4 +1,4 @@
-package lesson11_12
+package Lesson11_12
 
 class Ingredient constructor(var name: String, var weight: Int, var count: Int) {
 

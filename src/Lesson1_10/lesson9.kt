@@ -1,4 +1,4 @@
-package lesson1_10
+package Lesson1_10
 
 fun main(){
     //List
